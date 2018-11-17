@@ -1,16 +1,16 @@
 # Tarea-3
 Desarrollo de algoritmo para realizar un desayuno.
-cortar naranja
-rellenar el vaso con el jugo de naranja y estevia.
-Calentar sarten.
-Preparar los panqueques.
-Rellenar los panqueques con manjar.
-Cortar la palta.
-Moler la palta.
-Cortar el pan.
-Calentar el pan.
-Rellenar el pan con la palta ya molida.
-Calentar agua.
-Rellenar taza con agua hervida.
-Preparar cafe.
-Servir desayuno.
+1. cortar naranja
+2. rellenar el vaso con el jugo de naranja y estevia.
+3. Calentar sarten.
+4. Preparar los panqueques.
+5. Rellenar los panqueques con manjar.
+6. Cortar la palta.
+7. Moler la palta.
+8. Cortar el pan.
+9. Calentar el pan.
+10. Rellenar el pan con la palta ya molida.
+11. Calentar agua.
+12. Rellenar taza con agua hervida.
+13. Preparar cafe.
+14. Servir desayuno.
